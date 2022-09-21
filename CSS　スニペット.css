@@ -1,0 +1,23 @@
+.box {
+    width:25px;
+    height:25px;
+}
+
+.justify-content-center {
+    /* ①display: flex;と入力してください */
+    display: flex;
+    /* ②justify-content:center;と入力してください */
+    justify-content: center;
+}
+
+.bg-red {
+    background-color:#fab1a0;
+}
+
+.bg-blue {
+    background-color:#74b9ff;
+}
+
+.bg-green {
+    background:#55efc4;
+}
